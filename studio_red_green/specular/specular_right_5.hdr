@@ -1,0 +1,6 @@
+#?RADIANCE
+#© Inter IKEA Systems B.V. 2019
+FORMAT=32-bit_rle_rgbe
+
+-Y 32 +X 32
+ƒ‚€Žƒ‚€Ž„ƒ€„ƒ€„ƒ€Œ…„€Œ…„€Œ†„€Œ†…€‹†…€‹‡†€‹‡†€Œˆ†€Œˆ‡€Œ‰‡€Œ‰‡€ŒŠˆ€ŒŠˆ€‹Šˆ€‹‹‡€‹‹‡€ŠŠ†€‰Š†€ˆŠ…€‡Šƒ€†‰‚€„‰€€ƒˆ€‡}€‡z€}†x€{†v€‚€Ž‚‚€Žƒ‚€ƒƒ€„ƒ€Œ„ƒ€Œ…„€Œ…„€Œ†…€‹†…€‹‡…€‹‡†€Œˆ†€Œˆ‡€Œ‰‡€Œ‰ˆ€ŒŠˆ€ŒŠˆ€Œ‹ˆ€Œ‹ˆ€‹‹‡€‹‹‡€Š‹†€‰‹…€ˆ‹„€‡Šƒ€…Š€„‰€€‚‰~€€ˆ|€~ˆz€}‡w€€€Ž‚€Ž‚€ƒ‚€ƒ‚€Œ„ƒ€Œ„ƒ€Œ…„€Œ…„€Œ†…€Œ‡…€Œ‡†€Œˆ†€Œˆ‡€Œ‰‡€ŒŠˆ€ŒŠˆ€Œ‹ˆ€Œ‹ˆ€Œ‹ˆ€ŒŒˆ€‹Œˆ€‹Œ‡€ŠŒ†€‰Œ…€ˆ‹„€†‹‚€…‹€ƒŠ€‚Š}€€Š{€~‰y€€€Ž€€Ž€‚€ƒ‚€Œƒ‚€Œ„ƒ€Œ…„€Œ…„€Œ†…€Œ‡…€Œ‡†€Œˆ‡€Œ‰‡€Œ‰ˆ€ŒŠˆ€‹‰€‹‰€Œ‰€Œ‰€‰€Œ‰€Œˆ€‹‡€Š†€‰…€ˆ„€†Œ‚€…Œ€€ƒŒ€‚Œ}€€Œ{€~~€Ž€€Ž€€€€€‚€Œƒ‚€Œ„ƒ€Œ„ƒ€Œ…„€Œ†…€Œ†…€Œ‡†€Œˆ‡€Œ‰‡€Šˆ€‹‰€‹‰€ŽŒŠ€ŽŠ€ŽŠ€ŽŽŠ€ŽŠ€Ž‰€ŒŽ‰€‹Žˆ€ŠŽ‡€‰Ž…€ˆŽ„€‡Ž‚€†Ž€„Ž€ƒŽ}€}|€Ž~~€Ž€€€€€€Œ‚€Œƒ‚€Œ„ƒ€Œ…„€Œ†…€Œ‡…€Œ‡†€ˆ‡€‰ˆ€Š‰€Ž‹‰€ŽŒŠ€ŽŠ€Ž‹€Ž‹€‹€‹€Ž‹€ŽŠ€‰€Œ‰€‹‡€Š‘†€‰‘…€ˆ‘ƒ€‡‘‚€…‘€€{{€Ž}|€Ž~~€€€€‚€Œƒ‚€Œ„ƒ€Œ…„€Œ†…€Œ‡†€ˆ†€‰‡€ŽŠˆ€Ž‹‰€ŽŒŠ€‹€Ž‹€Œ€Œ€€‘€‘Œ€’Œ€’‹€Ž“‹€“Š€“‰€Œ“‡€‹”†€‰”…€ˆ”ƒ€zy€Ž|{€Ž}|€~~€€€€€Œ‚€Œƒ‚€Œ„„€†…€‡†€ˆ‡€Ž‰ˆ€ŽŠ‰€‹Š€‹€ŽŒ€€‘€‘‘Ž€’’Ž€’“Ž€’“Ž€‘”Ž€‘”Ž€‘•€•Œ€–‹€Ž–Š€–‰€—ˆ€Œ—‡€xx€Žzy€Ž|{€}}€~€€€‚€ƒ‚€„ƒ€†…€‡†€Žˆ‡€ŽŠˆ€‹‰€Œ‹€Œ€‘€’Ž€’‘€“’€“”€””€”•€”–€“—€“—€“˜€’™Ž€‘™€‘šŒ€š‹€›Š€Žwv€Žyx€Ž{z€|{€~}€€€€€ƒ‚€„ƒ€†…€Ž‡†€Žˆ‡€Š‰€ŒŠ€‘‹€‘Ž€’Ž€“‘€”“€””‘€••’€•–’€–—“€–˜“€–™“€–š’€–›’€•œ‘€•œ‘€”€”ž€“žŽ€Žuu€Žwv€yy€{z€}|€~€€€‚€„ƒ€Ž†…€Ž‡†€‰ˆ€Š‰€‘Œ‹€’ŽŒ€’Ž€“‘€”“€•”’€––“€——”€—˜”€˜š•€˜›•€™œ•€™•€™ž•€˜Ÿ•€˜ ”€˜ “€—¡“€—¢’€Žts€Žvu€xw€zy€|{€~}€€€‚€Ž„ƒ€Ž†…€‡†€‰ˆ€‘‹Š€’Œ€“€”‘€•’€–”’€—–“€˜—•€™™–€š›—€šœ—€›˜€›ž˜€œ ˜€œ¡˜€œ¢˜€œ£˜€›¤—€›¥—€›¦–€Žrr€Žut€wv€yx€{{€}}€€€Ž‚€Ž„ƒ€†…€ˆ‡€Š‰€‘ŒŠ€’ŽŒ€”Ž€•’€–”’€—•“€™—•€š™–€››˜€œ™€žš€ š€ž¡›€Ÿ£›€Ÿ¤œ€Ÿ¥›€Ÿ¦›€Ÿ§›€Ÿ¨›€Ÿ©š€Žqp€ss€vu€xx€{z€}|€~€Ž€€Žƒƒ€†…€ˆ‡€‘Š‰€’Œ‹€“Ž€•€–“‘€—•“€™—•€š™—€œ›˜€š€žŸ›€Ÿ œ€ ¢€¡¤ž€¢¥ž€¢§Ÿ€¢¨Ÿ€¢©Ÿ€£«Ÿ€£¬Ÿ€£­Ÿ€po€rq€ut€ww€zy€|{€Ž~€Ž€€ƒ‚€†…€‘ˆ‡€’Š‰€“Œ€”Ž€–‘€—”’€™–”€š˜–€œš˜€š€ŸŸœ€ ¡€¡£Ÿ€£¥ €¤¦¡€¤¨¡€¥ª¢€¦«¢€¦¬¢€¦®¢€¦¯¢€§°¢€on€qp€ts€wv€yx€|{€Ž~}€Ž€€ƒ‚€†…€‘ˆ‡€’‹Š€”Œ€•€—’‘€˜•“€š—–€œš˜€œš€Ÿžœ€¡ ž€¢£Ÿ€¤¥¡€¥§¢€¦©£€§«¤€¨¬¥€©®¥€©¯¦€©±¦€ª²¦€ª´¦€nm€pp€ss€vu€yx€{{€Ž~}€€€ƒ‚€†…€’‰ˆ€“‹Š€”Ž€–€˜“’€™–”€›˜—€›™€Ÿ›€¡ €¢¢Ÿ€¤¤¡€¦§£€§©¤€©«¦€ª­§€«¯¨€«°¨€¬²©€¬´©€­µ©€­¶©€ml€po€sr€vu€xx€{z€Ž~}€€€ƒ‚€‘†…€’‰ˆ€“Œ‹€•Ž€—‘€˜”“€š–•€œ™˜€žœš€ Ÿ€¢¡Ÿ€¤¤¡€¦¦£€¨©¥€©«§€«­¨€¬¯©€­±ª€®³«€¯µ«€¯¶¬€°¸¬€°¹¬€ll€on€rq€ut€xw€Ž{z€Ž~}€€€€ƒ‚€‘†…€’‰ˆ€”Œ‹€–Ž€—’‘€™”“€›—–€š™€Ÿ›€¡ ž€¤¢ €¦¥£€§¨¥€©ª§€«­©€­¯ª€®±«€¯³¬€°µ­€±·®€²¸®€²º¯€³»¯€lk€on€rq€ut€xw€Ž{z€Ž}}€€€€ƒƒ€‘††€“‰ˆ€”Œ‹€–Ž€˜’‘€š•”€œ˜—€ž›™€ žœ€£¡Ÿ€¥£¡€§¦¤€©©¦€««¨€­®ª€®°¬€°³­€±µ®€²·¯€³¸°€´º°€µ¼±€µ½±€kk€Œnn€qq€tt€xw€Ž{z€Ž}}€€€„ƒ€’‡†€“Š‰€•Œ€—€˜“’€š–•€™—€Ÿœš€¡Ÿ€£¢ €¦¤¢€¨§¥€ªª§€¬­ª€®¯¬€°²­€²´¯€³¶°€´¸±€µº²€¶¼³€·½³€·¿´€Œkj€Œnn€Œqq€tt€xw€Ž{z€Ž~}€€€‘„ƒ€’‡†€“Š‰€•Œ€—€™“’€›–•€™˜€Ÿœ›€¢Ÿž€¤¢¡€§¥£€©¨¦€««¨€­®«€¯°­€±³¯€³µ°€´·²€µ¹³€·»´€·½´€¸¿µ€¹Àµ€Œkj€Œnn€Œqq€tt€xw€Ž{z€Ž~}€€€‘„ƒ€’‡†€”Š‰€•Œ€—€™”“€›—–€žš˜€ ›€¢ ž€¥£¡€§¦¤€ª©§€¬¬©€®®¬€°±®€²´°€´¶±€µ¸³€·º´€¸¼µ€¹¾¶€ºÀ¶€ºÁ·€Œkj€Œnn€Œqq€Œut€xw€Ž{z€~}€€€‘„ƒ€’‡‡€”‹Š€–Ž€˜‘€š”“€œ—–€žš™€ œ€£ Ÿ€¥£¢€¨¦¤€ª©§€­¬ª€¯¯¬€±²¯€³´±€µ·²€¶¹´€¸»µ€¹½¶€º¿·€»Á¸€¼Â¸€Œkk€Œon€Œrq€Œut€xw€Ž{z€~~€€‘…„€’ˆ‡€”‹Š€–Ž€˜‘€š”“€œ—–€žš™€¡œ€£ Ÿ€¦¤¢€¨§¥€«©¨€­¬ª€¯¯­€²²¯€´µ±€µ·³€·¹µ€¸¼¶€º¾·€»¿¸€¼Á¹€¼Ã¹€Œlk€Œon€Œrq€Œut€xx€Ž{{€~€‚€‘…„€“ˆ‡€”‹Š€–Ž€˜‘€š”“€œ˜—€Ÿ›š€¡žœ€¤¡Ÿ€¦¤¢€©§¥€«ª¨€®­«€°¯­€²²°€´µ²€¶·³€¸ºµ€¹¼¶€º¾¸€»À¹€½Â¹€½Ãº€Œlk€Œoo€Œrr€Œvu€yx€Ž|{€~€‚€‘…„€“ˆ‡€”‹‹€–ŽŽ€˜’‘€š•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤£€©§¥€«ª¨€®­«€°°­€²²°€´µ²€¶·´€¸ºµ€¹¼·€»¾¸€¼À¹€½Âº€¾Ä»€‹ml€‹po€Œsr€Œvu€yy€Ž||€€ƒ‚€‘†…€“‰ˆ€”Œ‹€–Ž€˜’‘€š•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤£€©§¦€«ª¨€®­«€°°­€²²°€´µ²€¶·´€¸º¶€º¼·€»¾¸€¼À¹€½Â»€¾Ä»€‹mm€‹pp€Œts€Œwv€zy€Ž}|€€€ƒ‚€‘†…€“‰ˆ€”Œ‹€–Ž€˜’‘€š•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤£€©§¦€«ª¨€®­«€°¯­€²²°€µµ²€··´€¸º¶€º¼·€»¾¹€½Àº€¾Â»€¿Ä¼€‹nm€‹qp€Œts€Œww€zz€Ž}}€€€€ƒƒ€‘††€“‰ˆ€•Œ‹€–Ž€˜’‘€š•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤£€©§¦€«ª¨€®¬«€°¯­€²²°€´µ²€¶·´€¸¹¶€º¼·€»¾¹€¼Àº€¾Â»€¿Ã¼€‹on€‹rq€‹ut€Œxw€{z€Ž~}€€€„ƒ€‘‡†€“Š‰€•Œ€—€˜’‘€›•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤£€©§¥€«©¨€­¬«€°¯­€²²°€´´²€¶·´€¸¹¶€º»·€»½¹€¼¿º€¾Á»€¿Ã¼€‹po€‹sr€‹vu€Œyx€|{€Ž~€‚€„„€‘‡†€“Š‰€•Œ€—€™“’€›•”€˜—€Ÿ›š€¡ž€¤¡ €¦¤¢€©¦¥€«©¨€­¬ª€°¯­€²±¯€´´²€¶¶´€¸¹µ€º»·€»½¹€¼¿º€¾Á»€¿Ã¼€
