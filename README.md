@@ -1,7 +1,7 @@
 Sample environments for the glTF 2.0 Sample Viewer
 ==================================================
 
-These are the environments used for image-based lighting (IBL) in the official [glTF 2.0 Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer). It is used as a sub-module from the previous repository.  
+These are the environments used for image-based lighting (IBL) in the official [glTF 2.0 Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer). It is used as a sub-module from the glTF sample viewer.  
 
 
 Sampling the panorama images
@@ -169,7 +169,7 @@ vec3 renderGetGGXWeightedVector(vec2 e, vec3 normal, float roughness)
     // y = sin(theta)*sin(phi)
     // z = cos(theta)
 
-	vec3 H = normalize(vec3(sinTheta * cos(phi), sinTheta * sin(phi), cosTheta));
+    vec3 H = normalize(vec3(sinTheta * cos(phi), sinTheta * sin(phi), cosTheta));
     
     //
     
@@ -191,7 +191,7 @@ vec3 renderGetGGXWeightedVector(vec2 e, vec3 normal, float roughness)
     
     //
     
-	return normalize(tangent * H.x + bitangent * H.y + normal * H.z);
+    return normalize(tangent * H.x + bitangent * H.y + normal * H.z);
 }
 
 float ndfTrowbridgeReitzGGX(float NdotH, float roughness)
@@ -217,34 +217,34 @@ vec4 renderCookTorrance(vec2 randomPoint, vec3 N, float roughness)
     
     float NdotL = dot(N, L);
 
-	if (NdotL > 0.0)
-	{
-	    float lod = 0.0;
-	
-	    if (roughness > 0.0)
-	    {    
-		    // Mipmap Filtered Samples
-		    // see https://github.com/derkreature/IBLBaker
-		    // see https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html
-		    
-		    float cubeWidth = float(textureSize(u_cubeMap, 0).x);
-		
-		    float VdotH = dot(V, H);
-		    float NdotH = dot(N, H);
-		
-		    float D = ndfTrowbridgeReitzGGX(NdotH, roughness);
-	        float pdf = max(D * NdotH / (4.0 * VdotH), 0.0);
-	        
-	        float solidAngleTexel = 4.0 * UX3D_MATH_PI / (6.0 * cubeWidth * cubeWidth);
-	        float solidAngleSample = 1.0 / (u_parameter.samples * pdf);
-	        
-	        lod = 0.5 * log2(solidAngleSample / solidAngleTexel);
-	    }
+    if (NdotL > 0.0)
+    {
+        float lod = 0.0;
+
+        if (roughness > 0.0)
+        {    
+            // Mipmap Filtered Samples
+            // see https://github.com/derkreature/IBLBaker
+            // see https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html
+            
+            float cubeWidth = float(textureSize(u_cubeMap, 0).x);
+        
+            float VdotH = dot(V, H);
+            float NdotH = dot(N, H);
+        
+            float D = ndfTrowbridgeReitzGGX(NdotH, roughness);
+            float pdf = max(D * NdotH / (4.0 * VdotH), 0.0);
+            
+            float solidAngleTexel = 4.0 * UX3D_MATH_PI / (6.0 * cubeWidth * cubeWidth);
+            float solidAngleSample = 1.0 / (u_parameter.samples * pdf);
+            
+            lod = 0.5 * log2(solidAngleSample / solidAngleTexel);
+        }
 	    
-	    return vec4(textureLod(u_cubeMap, L, lod).rgb * NdotL, NdotL);
-	}
+        return vec4(textureLod(u_cubeMap, L, lod).rgb * NdotL, NdotL);
+    }
 	
-	return vec4(0.0, 0.0, 0.0, 0.0);
+    return vec4(0.0, 0.0, 0.0, 0.0);
 }
 
 void main(void)
@@ -267,32 +267,33 @@ void main(void)
   
 Panorama images used for sampling
 =================================
+The following images are the JPG versions of the panorama images. If available, the link is guiding to the original file.
 
-doge2
+[doge2](http://gl.ict.usc.edu/data/highresprobes/)
 -----  
 ![](doge2.jpg)  
   
-ennis
+[ennis](http://gl.ict.usc.edu/data/highresprobes/)
 -----
 ![](ennis.jpg)  
   
-field
+[field](https://www.hdri-hub.com/hdrishop/freesamples/freehdri/item/116-hdr-040-field-free)
 -----
 ![](field.jpg)  
   
-footprint_court
+[footprint_court](http://www.hdrlabs.com/sibl/archive/)
 ---------------
 ![](footprint_court.jpg)  
   
-helipad
+[helipad](http://www.hdrlabs.com/sibl/archive/)
 -------
 ![](helipad.jpg)  
   
-papermill
+[papermill](http://www.hdrlabs.com/sibl/archive/)
 ---------
 ![](papermill.jpg)  
   
-pisa
+[pisa](http://gl.ict.usc.edu/data/highresprobes/)
 ----
 ![](pisa.jpg)  
 
