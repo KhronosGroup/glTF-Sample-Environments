@@ -296,11 +296,3 @@ The following images are the JPG versions of the panorama images. If available, 
 [pisa](http://gl.ict.usc.edu/data/highresprobes/)
 ----
 ![](pisa.jpg)  
-
-studio_grey
------------
-![](studio_grey.jpg)  
-  
-studio_red_green
-----------------
-![](studio_red_green.jpg)  
