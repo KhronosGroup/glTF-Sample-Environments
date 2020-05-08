@@ -18,25 +18,37 @@ The following images are the JPG versions of the panorama images. The link is gu
 ![](doge2.jpg)  
   
 [ennis](http://gl.ict.usc.edu/data/highresprobes/)
------
+-----  
 ![](ennis.jpg)  
   
 [field](https://www.hdri-hub.com/hdrishop/freesamples/freehdri/item/116-hdr-040-field-free)
------
+-----  
 ![](field.jpg)  
   
 [footprint_court](http://www.hdrlabs.com/sibl/archive/)
----------------
+-----  
 ![](footprint_court.jpg)  
   
 [helipad](http://www.hdrlabs.com/sibl/archive/)
--------
+-----  
 ![](helipad.jpg)  
   
 [papermill](http://www.hdrlabs.com/sibl/archive/)
----------
+-----  
 ![](papermill.jpg)  
   
 [pisa](http://gl.ict.usc.edu/data/highresprobes/)
-----
+-----  
 ![](pisa.jpg)  
+
+neutral
+-----  
+![](neutral.jpg)  
+
+directional
+-----  
+![](directional.jpg)  
+
+chromatic
+-----  
+![](chromatic.jpg)  
