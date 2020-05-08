@@ -4,7 +4,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 FOR %%I in (*.hdr) DO (
  	set CurDir=%%~nI/
  	echo !CurDir!
-	if not exist !CurDir! mkdir !CurDir!
+	if not exist !CurDir! mkdir "!CurDir!"
 	
 	cd !CurDir!
 	if not exist lambertian mkdir lambertian
